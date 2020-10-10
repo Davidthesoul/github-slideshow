@@ -2,5 +2,5 @@
  diseño : título de la diapositiva
  : "¡ Bienvenidos a la segunda página! "
 ---
-Hola bb
+Hola bb   como andas-?
 Utiliza la flecha hacia la izquierda para volver!
